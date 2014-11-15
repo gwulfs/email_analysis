@@ -1,0 +1,5 @@
+To use the code you must include your email.json file in the cloned repo on your local machine (can aquire said file at eos2.io), and create a file called secrets.py that includes the following line of code: "key = 'API_KEY_FROM_PLOTLY'" also change py.sign_in('gwulf', key) from plotly_script.py to have your personal plotly username.
+
+First run count_words.py to create jsons with your data in the results directory, then you can either run plot.py (for matplotlib png files in the plots directory or run plotly_script.py to get (much niceer looking) scatterplots on your plotly account.
+
+Also feel free to rm -rf * from inside the plots and results directories to remove Gideon's Data.
