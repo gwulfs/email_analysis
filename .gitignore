@@ -1,0 +1,4 @@
+secrets.py
+.ipynb_checkpoints
+*.ipynb
+email.json
