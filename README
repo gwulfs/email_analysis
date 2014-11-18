@@ -4,4 +4,9 @@ First run count_words.py to create jsons with your data in the results directory
 
 Also feel free to rm -rf * from inside the plots and results directories to remove Gideon's Data.
 
+
+Notebook comparing words used in old emails with those of new emails:
 http://nbviewer.ipython.org/github/gwulfs/Email-Word-Counter/blob/master/raw_analyze.ipynb
+
+Plots from counting scripts:
+https://plot.ly/~gwulf/
