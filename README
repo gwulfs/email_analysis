@@ -8,5 +8,9 @@ Also feel free to rm -rf * from inside the plots and results directories to remo
 Notebook comparing words used in old emails with those of new emails:
 http://nbviewer.ipython.org/github/gwulfs/Email-Word-Counter/blob/master/raw_analyze.ipynb
 
-Plots from counting scripts:
-https://plot.ly/~gwulf/
+Plots(check out what happened to my use of filler words):
+all- https://plot.ly/~gwulf
+fillers- https://plot.ly/~gwulf/32
+
+To get your own email.json file use:
+https://eos2.io
