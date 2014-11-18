@@ -26,3 +26,4 @@ for filename in files:
     		wordnum.append(int(indx))
     	plt.scatter(wordnum, counts)
     	plt.savefig('plots/{}.png'.format(filename[:-5]))
+        plt.close()
