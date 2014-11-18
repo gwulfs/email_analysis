@@ -3,3 +3,5 @@ To use the code you must include your email.json file in the cloned repo on your
 First run count_words.py to create jsons with your data in the results directory, then you can either run plot.py (for matplotlib png files in the plots directory or run plotly_script.py to get (much niceer looking) scatterplots on your plotly account.
 
 Also feel free to rm -rf * from inside the plots and results directories to remove Gideon's Data.
+
+http://nbviewer.ipython.org/github/gwulfs/Email-Word-Counter/blob/master/raw_analyze.ipynb
