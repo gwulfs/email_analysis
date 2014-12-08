@@ -2,5 +2,6 @@ secrets.py
 .ipynb_checkpoints
 *.ipynb
 email.json
+mom.json
 load.py
 words.txt
