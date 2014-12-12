@@ -5,3 +5,4 @@ email.json
 mom.json
 load.py
 words.txt
+*.pyc
