@@ -11,9 +11,7 @@ Notebook comparing words used in mom's emails with those in mine:
 http://nbviewer.ipython.org/github/gwulfs/Email-Analysis/blob/master/mom_vs_me.ipynb
 ![bayes](http://i.imgur.com/6YAU6yR.png)
 
-Plots (check out what happened to my use of filler words):
-all- https://plot.ly/~gwulf
-fillers- https://plot.ly/~gwulf/32
+Plots (check out what happened to my use of filler words): https://plot.ly/~gwulf/32
 ![fillers](http://i.imgur.com/fXufppH.png)
 
 To get your own email.json file use:
