@@ -18,5 +18,5 @@ To get your own email.json file use:
 https://eos2.io
 ![eos](http://i.imgur.com/ieOrmEk.png)
 
-#built by
+#Team:
 ![team](http://i.imgur.com/GJqc2Q6.png)
