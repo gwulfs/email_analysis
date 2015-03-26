@@ -65,8 +65,5 @@ for filename in files:
     data_months = counts_month(rawemails)
     data_words = counts_words(rawemails)
     wordfile = 'results/{}_10k.json'.format(filename[:-4])
-    # monthfile = 'results/{}_month.json'.format(filename[:-4])
     with open(wordfile, 'wb') as f:
         f.write(json.dumps(data_words))
-    # with open(monthfile, 'wb') as f:
-    #     f.write(json.dumps(data_months))
